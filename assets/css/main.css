@@ -97,6 +97,9 @@ footer{
         text-align: center;
         color: var(--color-secondary);
     }
+    .pikachu{
+        width: 78vw;
+    }
 }
 @media (min-width: 1024px){
     /* regras do desktop aqui */
@@ -140,7 +143,7 @@ footer{
         .pikachu{
         width: auto;
         height: 70vh;
-        top: 53%;
+        top: 55%;
         left: 50%;
     }
     
